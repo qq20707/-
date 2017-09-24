@@ -1,0 +1,13 @@
+﻿  WoodDuck.cpp
+  Squeak.cpp
+  QQuack.cpp
+  MuteQuack.cpp
+  MallardDuck.cpp
+  main.cpp
+  IQuackBehavior.cpp
+  IFlyBehavior.cpp
+  FlyWithWings.cpp
+  FlyNoWay.cpp
+  Duck.cpp
+  正在生成代码...
+  策略模式.vcxproj -> D:\Project\AlearnCC\设计模式\设计模式之策略模式_duck\策略模式\Debug\策略模式.exe
